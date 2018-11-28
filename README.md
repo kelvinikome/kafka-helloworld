@@ -3,7 +3,7 @@ Apache Kafka demo app
 
 ## How to run
 
-* https://github.com/kelvinikome/kafka-helloworld.git
+* git clone https://github.com/kelvinikome/kafka-helloworld.git
 * cd kafka-helloworld
 * mvn install
 * cd target
